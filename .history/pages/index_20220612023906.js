@@ -7,7 +7,7 @@ import { useWallet } from "@solana/wallet-adapter-react";
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
 
 // Constants
-const TWITTER_HANDLE = "xjbarnft";
+const TWITTER_HANDLE = "_buildspace";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const App = () => {
@@ -50,8 +50,8 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header">Slimes Store</p>
-          <p className="sub-text">Your one stop shop for everything Slimes!</p>
+          <p className="header"> 😳 Buildspace Emoji Store 😈</p>
+          <p className="sub-text">The only emoji store that accepts shitcoins</p>
 
           {isOwner && (
             <button className="create-product-button" onClick={() => setCreating(!creating)}>
@@ -72,7 +72,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built by @${TWITTER_HANDLE}`}</a>
+          >{`built on @${TWITTER_HANDLE}`}</a>
         </div>
       </div>
     </div>

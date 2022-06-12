@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Slime Cafe Banner",
+    "price": "4.99",
+    "description": "The Slimes know the early bird gets the worm! Add this fun banner to your collection for $4.99!",
+    "image_url": "https://i.imgur.com/1WC7Y9N.png",
+    "filename": "slimecafe.zip",
+    "hash": "QmQhSG9q7854Tx9tVrktcWcdgTUTEjqCmwfhQjr1GC4m6n"
+  },
+  {
+    "id": 2,
+    "name": "Slimes Band Banner",
+    "price": "6",
+    "image_url": "https://i.imgur.com/58ecaxB.jpg",
+    "description": "Get your rock on with the Slime squad! Coming to a venue near you!",
+    "filename": "slimeband.rar",
+    "hash": "QmSedDQbFeviQBd2pnyPnyRPD3HAiUN6x4vb3bZsQ8yU7b"
+  }
+]
